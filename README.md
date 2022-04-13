@@ -4,7 +4,7 @@ This is the repository for the LinkedIn Learning course `Introduction to Terrafo
 
 _See the readme file in the main branch for updated instructions and information._
 
-## Learning objectives
+## Learning Objectives
 - Adding Terraform provider
 - Creating an Azure resource group
 - Creating a virtual network
