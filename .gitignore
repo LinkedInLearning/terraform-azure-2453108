@@ -2,3 +2,16 @@
 node_modules
 .tmp
 npm-debug.log
+#Terraform State Files
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfstate.backup.d/*
+
+#Terraform plan output 
+planout
+
+#terraform variables
+**/terraform.tfvars
+
+#terraform init files 
+**/.terraform
